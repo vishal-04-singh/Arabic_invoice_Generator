@@ -1,4 +1,4 @@
-# iVoice – Arabic Invoice Generator
+# Arabic Invoice Generator
 
 iVoice is a Python-based, GUI-powered tool for generating professional Arabic (RTL) PDF invoices customized for different companies. It uses the ReportLab library, supports Arabic text rendering, and enables easy invoice creation from structured JSON data.
 
