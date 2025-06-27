@@ -21,9 +21,7 @@ iVoice is a Python-based, GUI-powered tool for generating professional Arabic (R
 ├── template_company3.py
 ├── Amiri-Regular.ttf
 ├── 1.json
-├── 2.json
-├── 3.json
-├── 1.webp          # Logo for Company 1
+├── company1_logo.webp          # Logo for Company 1
 ├── company2_logo.webp
 ├── company3_logo.png
 └── README.md
